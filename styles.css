@@ -1,4 +1,10 @@
+.mpcont {
+    background-color: hsl(0, 0%, 15%);
+}
+
+
 .mpcont .mptitle {
     text-align: center;
     font-family: "Brush Script MT", Helvetica, sans-serif;
+    color: hsl(0, 0%, 90%);
 }
