@@ -4,8 +4,10 @@
 
 
 
-h1 {
+.rtitle {
     text-align: center;
+    font-family: "Brush Script MT", Helvetica, sans-serif;
+    color: hsl(0, 0%, 90%);
 }
 
 
@@ -17,4 +19,15 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+
+.rdes,
+.para,
+.ing,
+.inglist,
+.step,
+.steplist {
+    font-family: "Brush Script MT", Helvetica, sans-serif;
+    color: hsl(0, 0%, 90%);
 }
