@@ -1,11 +1,20 @@
-h1 {
-    text-align: center;
-
+.rbody {
+    background-color: hsl(0, 0%, 15%); 
 }
 
 
 
-img {
-    max-width: 300px;
-    max-height: 300px;
+h1 {
+    text-align: center;
+}
+
+
+
+.resultimg {
+    max-width: 400px;
+    max-height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
